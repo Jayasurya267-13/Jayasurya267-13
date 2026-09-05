@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayasurya</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Student pursuing ECE at Sri Sai Ram Institute Of Technology | AI & ROBOTICS</h3>
 
 - 📫 How to reach me **jayasurya2006rjs@gmail.com**
 
@@ -15,4 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasurya267-13&show_icons=true&locale=en&layout=compact" alt="jayasurya267-13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayasurya267-13&show_icons=true&locale=en" alt="jayasurya267-13" /></p>
-
