@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayasurya</h1>
-<h3 align="center">A Student pursuing ECE at Sri Sai Ram Institute Of Technology | AI & ROBOTICS</h3>
+<h3 align="center">A Student pursuing ECE at Sri Sai Ram Institute Of Technology | Software developer</h3>
 
 - 📫 How to reach me **jayasurya2006rjs@gmail.com**
 
