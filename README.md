@@ -18,7 +18,9 @@ src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo
 About Me
 
 name: JAYASURYA R education: B.E in Electronnics and Communication Enginnering 
+
 focus: - Problem Solving - Creative Innovator - Building Real-World Projects
+
 currently_learning: - DSA in java - Python data science - JavaScript
 mindset: Learn → Build → Share → Improve
 
