@@ -16,12 +16,14 @@ src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo
 </div>
 ---
 ## About Me
-```yaml name: JAYASURYA R education: B.E in Electronnics and Communication Enginnering 
+
+name: JAYASURYA R education: B.E in Electronnics and Communication Enginnering 
 focus: - Problem Solving - Creative Innovator - Building Real-World Projects
 currently_learning: - DSA in java - Python data science - JavaScript
 mindset: Learn → Build → Share → Improve ```
-Write 2–4 lines about yourself here.
+
 I am a passionate Electronics and Communication Engineering student interested in technology, software development, and innovation. I enjoy learning new skills, solving real-world problems, and working on projects that combine creativity with practical solutions. I am a motivated team player who continuously works to improve my technical and communication skills.
+
 ## ■■ Tech Stack
 ### Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=python,java,js,html,css"/> </p>
