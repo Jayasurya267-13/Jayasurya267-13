@@ -17,7 +17,9 @@ src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo
 ---
 About Me
 
-Name: JAYASURYA R education: B.E in Electronnics and Communication Enginnering 
+Name: JAYASURYA R 
+
+Education: B.E in Electronnics and Communication Enginnering 
 
 Focus: - Problem Solving - Creative Innovator - Building Real-World Projects
 
@@ -59,10 +61,6 @@ QRouteX is a quantum-inspired intelligent traffic route optimization system that
 
 Tech Stack:
 Python FastAPI React JavaScript QPSO OpenStreetMap Leaflet
----
-## ■ My Learning Journey
-```text Education ↓ Programming ↓ Development ↓ Advanced Skills ↓ Real Projects ↓ Professional Growth ```
-> Learn → Build → Share → Improve
 ---
 <div align="center">
 ### ■ Keep Building. Keep Learning. Keep Growing.
