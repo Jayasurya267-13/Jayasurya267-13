@@ -1,19 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&sectio
-n=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR%20ROLE%20%7C%20YOUR%
-20ROLE%20%7C%20YOUR%20ROLE&descAlignY=58&descSize=18"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/EDUCATION-Your%20Degree-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Your%20Focus-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Your%20Country-4C1D95?style=for-the-badge"/>
-<br/><br/>
-<a href="www.linkedin.com/in/jayasurya-r-b655bb31b"> <img
-src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:jayasurya2006rjs@gmail.com"> <img
-src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://github.com/Jayasurya267-13"> <img
-src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-</div>
+
 ---
 About Me
 
