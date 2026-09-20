@@ -16,9 +16,9 @@ I am a passionate Electronics and Communication Engineering student interested i
 
 Tech Stack
 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,js,html,c"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=c,python,java,js,html"/> </p>
 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,html,javascript"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,html,css"/> </p>
 Backend & Database
 <p> <img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb"/> </p>
 Tools
