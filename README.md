@@ -16,11 +16,11 @@ I am a passionate Electronics and Communication Engineering student interested i
 
 Tech Stack
 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,js,html,css"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,java,js,html,c"/> </p>
 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,html,javascript"/> </p>
 Backend & Database
-<p> <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb"/> </p>
 Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/> </p>
 ---
