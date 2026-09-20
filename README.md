@@ -2,9 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&sectio
 n=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR%20ROLE%20%7C%20YOUR%
 20ROLE%20%7C%20YOUR%20ROLE&descAlignY=58&descSize=18"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&widt
-h=650&lines=Building+amazing+projects;Learning+new+technologies;Exploring+Artificial+Intelligence;Turning+ideas+into
-+real+projects" alt="Typing SVG" />
 <br/><br/>
 <img src="https://img.shields.io/badge/EDUCATION-Your%20Degree-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-Your%20Focus-7C3AED?style=for-the-badge"/>
@@ -18,7 +15,7 @@ src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=
 src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 </div>
 ---
-## ■ About Me
+## About Me
 ```yaml name: JAYASURYA R education: B.E in Electronnics and Communication Enginnering 
 focus: - Problem Solving - Creative Innovator - Building Real-World Projects
 currently_learning: - DSA in java - Python data science - JavaScript
@@ -60,32 +57,6 @@ Python FastAPI React JavaScript QPSO OpenStreetMap Leaflet
 ## ■ My Learning Journey
 ```text Education ↓ Programming ↓ Development ↓ Advanced Skills ↓ Real Projects ↓ Professional Growth ```
 > Learn → Build → Share → Improve
----
-## ■ Current Focus
-```yaml learning: - YOUR SKILL - YOUR SKILL - YOUR SKILL
-building: - YOUR PROJECT - YOUR PROJECT
-exploring: - YOUR TOPIC - YOUR TOPIC
-goal: - YOUR GOAL - YOUR GOAL ```
----
-## ■ GitHub
-<div align="center">
-<a href="https://github.com/Jayasurya267-13"> <img src="https://img.shields.io/badge/Explore%20My%20Repositorie
-s-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/> <img
-src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/> <img
-src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
-</div>
----
-## ■ Connect With Me
-<div align="center">
-<a href="www.linkedin.com/in/jayasurya-r-b655bb31b"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-th
-e-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:jayasurya2006rjs@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-th
-e-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://github.com/Jayasurya267-13"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journ
-ey-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-</div>
 ---
 <div align="center">
 ### ■ Keep Building. Keep Learning. Keep Growing.
