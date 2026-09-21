@@ -22,7 +22,7 @@ Frontend
 Backend & Database
 <p> <img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb"/> </p>
 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
 ---
 Featured Projects
 
