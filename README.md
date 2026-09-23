@@ -23,7 +23,8 @@ Backend & Database
 <p> <img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb"/> </p>
 Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
----
+
+
 Featured Projects
 
 Project 01 — Edge AI-based Predictive Maintenance Node
