@@ -6,9 +6,9 @@ Name: JAYASURYA R
 
 Education: B.E in Electronnics and Communication Enginnering 
 
-Focus: - Problem Solving - Creative Innovator - Building Real-World Projects
+Focus: Problem Solving - Creative Innovator - Building Real-World Projects
 
-Currently_learning: - DSA in java - Python data science - JavaScript
+Currently_learning: DSA in java - Python data science - JavaScript
 
 Mindset: Learn → Build → Share → Improve
 
