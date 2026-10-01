@@ -12,6 +12,8 @@ Currently_learning: DSA in java - Python data science - JavaScript
 
 Mindset: Learn → Build → Share → Improve
 
+Portfolio link:"https://jayasurya267-13.github.io/My_Portfolio/"
+
 I am a passionate Electronics and Communication Engineering student interested in technology, software development, and innovation. I enjoy learning new skills, solving real-world problems, and working on projects that combine creativity with practical solutions. I am a motivated team player who continuously works to improve my technical and communication skills.
 
 Tech Stack
