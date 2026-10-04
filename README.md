@@ -2,9 +2,6 @@
 ---
 About Me
 
-
-Name: JAYASURYA R 
-
 Education: B.E in Electronnics and Communication Enginnering 
 
 Focus: Problem Solving - Creative Innovator - Building Real-World Projects
