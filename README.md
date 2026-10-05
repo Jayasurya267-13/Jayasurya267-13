@@ -33,14 +33,14 @@ Edge AI Based Predictive Maintenance System is a web-based platform for monitori
 Tech Stack:
 Python React Flask MySQL
 ---
-Project 02 — Agricental
+Project 02 — **[Agrisentinel](https://github.com/Jayasurya267-13/AgriSentinel.git)** &nbsp;&nbsp;
 Project Description:
 An IoT-based smart agriculture system that monitors soil conditions and enables intelligent irrigation to improve water efficiency and crop health. The system uses an ESP32 for data collection and a web dashboard for real-time monitoring and control.
 
 Tech Stack:
 HTML CSS JavaScript ESP32 Blynk IoT
 ---
-Project 03 — Q-RouteX
+Project 03 — **[Q-RouteX](https://github.com/Jayasurya267-13/Q-RouteX.git)** &nbsp;&nbsp;
 Project Description:
 QRouteX is a quantum-inspired intelligent traffic route optimization system that uses QPSO and multi-objective optimization to find efficient routes by considering distance, travel time, and traffic congestion. It supports dynamic route optimization and algorithm comparison for smarter transportation planning.
 
