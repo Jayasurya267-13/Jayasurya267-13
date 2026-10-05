@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayasurya</h1>
 ---
-About Me
 
 Education: B.E in Electronnics and Communication Enginnering 
 
