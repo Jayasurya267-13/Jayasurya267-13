@@ -47,5 +47,24 @@ QRouteX is a quantum-inspired intelligent traffic route optimization system that
 Tech Stack:
 Python FastAPI React JavaScript QPSO OpenStreetMap Leaflet
 ---
+
+<h2 align="center">⚡ LeetCode Contribution</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/jayasurya2277/" target="_blank">
+    <img
+      src="https://github-readme-leetcode-stats.vercel.app/api/card?username=jayasurya2277&sections=profile,solved,streak,heatmap&theme=dark"
+      alt="Jayasurya R LeetCode Stats"
+      width="850"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/jayasurya2277/" target="_blank">
+    <b>View my LeetCode Profile →</b>
+  </a>
+</p>
+
 <div align="center">Keep Building. Keep Learning. Keep Growing!
 
