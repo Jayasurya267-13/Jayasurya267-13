@@ -28,6 +28,7 @@ Featured Projects
 Project 01 — **[Edge AI-based Predictive Maintenance Node](https://github.com/Jayasurya267-13/ESA-dashboard.git)** &nbsp;&nbsp;
 Project Description:
 Edge AI Based Predictive Maintenance System is a web-based platform for monitoring industrial machine health, detecting faults, and supporting predictive maintenance. The system integrates sensor data, AI-based fault detection, a backend API, database, and an interactive dashboard for real-time machine condition monitoring. Initial testing and validation are performed using CNC machine data/simulation.
+🌐 **[ESA_Dashboard](https://jayasurya267-13.github.io/ESA-dashboard/)** &nbsp;&nbsp;
 
 Tech Stack:
 Python React Flask MySQL
