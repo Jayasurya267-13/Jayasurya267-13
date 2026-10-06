@@ -51,18 +51,38 @@ Python FastAPI React JavaScript QPSO OpenStreetMap Leaflet
 <h2 align="center">⚡ LeetCode Contribution</h2>
 
 <p align="center">
+  <sub>PROBLEM SOLVING • ALGORITHMIC THINKING • CONSISTENT PRACTICE</sub>
+</p>
+
+<br>
+
+<!-- LeetCode Profile + Statistics -->
+<p align="center">
   <a href="https://leetcode.com/u/jayasurya2277/" target="_blank">
     <img
-      src="https://github-readme-leetcode-stats.vercel.app/api/card?username=jayasurya2277&sections=profile,solved,streak,heatmap&theme=dark"
-      alt="Jayasurya R LeetCode Stats"
-      width="850"
+      src="https://leetcode-stats-six.vercel.app/jayasurya2277?theme=dark"
+      alt="Jayasurya R LeetCode Statistics"
+      width="700"
+    />
+  </a>
+</p>
+
+<br>
+
+<!-- LeetCode Contribution / Submission Graph -->
+<p align="center">
+  <a href="https://leetcode.com/u/jayasurya2277/" target="_blank">
+    <img
+      src="https://leetcode-stats-six.vercel.app/jayasurya2277/graph?theme=dark&width=900"
+      alt="Jayasurya R LeetCode Contribution Graph"
+      width="900"
     />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/jayasurya2277/" target="_blank">
-    <b>View my LeetCode Profile →</b>
+    <strong>View my LeetCode Profile →</strong>
   </a>
 </p>
 
