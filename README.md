@@ -199,6 +199,14 @@ The system considers factors such as:
 </p>
 
 <p align="center">
+  <img
+    src="https://leetcode-stats-six.vercel.app/jayasurya2277/graph?theme=dark&width=900"
+    alt="Jayasurya R LeetCode Contribution Graph"
+    width="900"
+  />
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/jayasurya2277/">
     <img
       src="https://img.shields.io/badge/LEETCODE-JAYASURYA2277-C87533?style=for-the-badge&logo=leetcode&logoColor=F2E9D8"
