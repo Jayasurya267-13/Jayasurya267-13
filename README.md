@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayasurya</h1>
-
+---
 Education: B.E in Electronnics and Communication Enginnering 
 
 Focus: Problem Solving - Creative Innovator - Building Real-World Projects
