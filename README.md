@@ -180,17 +180,37 @@ The system considers factors such as:
 
 ---
 
-# 🧠 Currently Learning
+<h2 align="center">⚡ CODING / PROBLEM SOLVING</h2>
 
-```text
-DSA in Java
-        ↓
-Problem Solving
-        ↓
-Python Data Science
-        ↓
-JavaScript / React
-        ↓
-AI + Intelligent Systems
-        ↓
-VLSI / RTL Design
+<p align="center">
+  <sub>LEETCODE • ALGORITHMIC THINKING • CONSISTENT PRACTICE</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://leetcode.com/u/jayasurya2277/" target="_blank">
+    <img
+      src="https://leetcode-stats-six.vercel.app/jayasurya2277?theme=dark"
+      alt="Jayasurya R LeetCode Stats"
+      width="700"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://leetcode-stats-six.vercel.app/jayasurya2277/graph?theme=dark&width=900"
+    alt="Jayasurya R LeetCode Contribution Graph"
+    width="900"
+  />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/jayasurya2277/">
+    <img
+      src="https://img.shields.io/badge/LEETCODE-JAYASURYA2277-C87533?style=for-the-badge&logo=leetcode&logoColor=F2E9D8"
+      alt="LeetCode Profile"
+    />
+  </a>
+</p>
