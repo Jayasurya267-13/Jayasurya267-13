@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayasurya R</h1>
 
-<h3 align="center">
-  VLSI × HARDWARE × SOFTWARE
-</h3>
 
 <p align="center">
   <b>Electronics & Communication Engineering Student | Problem Solver | Creative Innovator | Builder</b>
