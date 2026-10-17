@@ -35,58 +35,6 @@ My goal is to continuously improve my engineering skills by:
 
 ---
 
-## ⚡ Engineering Focus
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🔬 VLSI
-
-RTL Design  
-Verilog HDL  
-Digital Electronics  
-FPGA
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Hardware
-
-Embedded Systems  
-Arduino  
-ESP32  
-IoT
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖 AI / Data
-
-Python  
-Data Science  
-Edge AI  
-Optimization
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻 Software
-
-Java  
-C  
-JavaScript  
-React / Flask
-
-</td>
-</tr>
-</table>
-
----
-
 # 🛠️ Tech Stack
 
 ### Programming Languages
