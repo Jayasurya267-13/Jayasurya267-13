@@ -128,3 +128,4 @@ The system considers factors such as:
 
 ---
 
+<div align="center">Keep Building. Keep Learning. Keep Growing!
